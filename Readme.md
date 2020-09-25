@@ -54,7 +54,7 @@ $ terraform destroy
 
 **Important Point**
 
-- Using the **terraform.tfvars** for storing the password does not shows it in the **terraform plan**. Please refer the **variables.tf** to know more and use **.tfvars** file for storing passing the details.
+- Using the **terraform.tfvars** for storing the password does not shows it in the **terraform plan**. Please refer the **variables.tf** to know more and use **.tfvars** file for storing or passing the details.
 
 ```bash
 + resource "mongodbatlas_database_user" "user2" {
