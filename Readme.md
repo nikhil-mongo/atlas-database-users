@@ -2,6 +2,7 @@
 
 This project aims to provide a very straight-forward example of setting up scope on database user in MongoDB Atlas. Using this, the database user access can be limited to a cluster or data lake.
 
+![MongoDB Atlas DB User](https://share.getcloudapp.com/p9uwpRAQ)
 
 ## Dependencies
 
@@ -83,4 +84,3 @@ project_name = Atlas-DB-Scope
 user1 = dbuser1
 user2 = dbuser2
 ```
-![MongoDB Atlas DB User](https://share.getcloudapp.com/p9uwpRAQ)
