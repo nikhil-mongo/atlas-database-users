@@ -83,5 +83,6 @@ project_name = Atlas-DB-Scope
 user1 = dbuser1
 user2 = dbuser2
 ```
-
-<iframe src="https://share.getcloudapp.com/p9uwpRAQ?branding=true&amp;embed=true&amp;title=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+<img src="https://share.getcloudapp.com/p9uwpRAQ?branding=true&amp;embed=true&amp;title=true"
+     alt="DB Users"
+     style="float: left; margin-right: 10px;" />
