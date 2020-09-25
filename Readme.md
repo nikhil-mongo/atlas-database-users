@@ -83,6 +83,4 @@ project_name = Atlas-DB-Scope
 user1 = dbuser1
 user2 = dbuser2
 ```
-<img src="https://share.getcloudapp.com/p9uwpRAQ"
-     alt="DB Users"
-     style="float: left; margin-right: 10px;" />
+![MongoDB Atlas DB User](https://share.getcloudapp.com/p9uwpRAQ)
