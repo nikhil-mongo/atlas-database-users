@@ -2,7 +2,7 @@
 
 This project aims to provide a very straight-forward example of setting up scope on database user in MongoDB Atlas. Using this, the database user access can be limited to a cluster or data lake.
 
-![MongoDB Atlas DB User](https://share.getcloudapp.com/p9uwpRAQ)
+![MongoDB Atlas DB User](https://github.com/nikhil-mongo/atlas-database-users/blob/master/atlas-1.png?raw=true)
 
 ## Dependencies
 
@@ -54,7 +54,7 @@ $ terraform destroy
 
 **Important Point**
 
-- Using the **terraform.tfvars** for storing the password does not shows it in the **terraform plan**. Please refer the **variables.tf** to know more and use **.tfvars** file for storing passing the details.
+- Using the **terraform.tfvars** for storing the password does not shows it in the **terraform plan**. Please refer the **variables.tf** to know more and use **.tfvars** file for storing or passing the details.
 
 ```bash
 + resource "mongodbatlas_database_user" "user2" {
