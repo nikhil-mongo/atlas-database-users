@@ -3,5 +3,5 @@ resource "mongodbatlas_project" "project1" {
   org_id = var.org_id
 }
 output "project_name" {
-    value = mongodbatlas_project.project1.name
+  value = mongodbatlas_project.project1.name
 }

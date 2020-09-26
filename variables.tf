@@ -20,6 +20,9 @@ variable "database_name" {
 variable "data_lake" {
   description = "The datalake name"
 }
-variable "org_id"{
-    description = "MongoDB Organization ID"
+variable "org_id" {
+  description = "MongoDB Organization ID"
+}
+variable "region" {
+  description = "MongoDB Atlas Cluster Region"
 }
