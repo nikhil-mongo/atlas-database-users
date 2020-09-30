@@ -15,7 +15,7 @@ resource "mongodbatlas_database_user" "user1" {
   }
 
   scopes {
-    name = mongodbatlas_cluster.cluster_stockholm.name
+    name = mongodbatlas_cluster.cluster.name
     type = "CLUSTER"
   }
 }
